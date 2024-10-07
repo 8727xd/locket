@@ -15,18 +15,18 @@ const ent = JSON.parse(data);
 
 let jsonToUpdate = {
         "request_date_ms": 1704070861000,
-        "request_date": "2004-06-22T01:01:01Z",
+        "request_date": "2006-04-03T01:01:01Z",
         "subscriber": {
             "entitlement": {},
-            "first_seen": "2004-06-22T01:01:01Z",
-            "original_application_version": "9692",
+            "first_seen": "2006-04-03T01:01:01Z",
+            "original_application_version": "1.94.0",
             "last_seen": "2004-06-22T01:01:01Z",
             "other_purchases": {},
             "management_url": null,
             "subscriptions": {},
             "entitlements": {},
             "original_purchase_date": "2004-06-22T01:01:01Z",
-            "original_app_user_id": "70B24288-83C4-4035-B001-573285B21AE2",
+            "original_app_user_id": "70B24288-83C4-4035-B001-572285B21AE1",
             "non_subscriptions": {}
         }
     };
